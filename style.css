@@ -1,0 +1,17 @@
+.rounded-img {
+  width: 55%;
+  border-radius: 50%;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
+  padding: 0.4em;
+  margin-bottom: 1em;
+}
+.card {
+  border-radius: 1em;
+  text-align: center;
+}
+.card:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.img {
+  border-radius: 1em;
+}
